@@ -1041,9 +1041,6 @@
         <mxCell id="0coCHjS_768v3yzFK0J5-501" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;fontStyle=1;fontFamily=Times New Roman;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="161" y="101" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0coCHjS_768v3yzFK0J5-502" value="Image" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;fontStyle=1;fontFamily=Times New Roman;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="209" y="100" width="60" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
