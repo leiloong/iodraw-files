@@ -1033,7 +1033,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0coCHjS_768v3yzFK0J5-499" value="" style="sketch=0;outlineConnect=0;fontColor=#1A1A1A;fillColor=#F5AB50;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;labelBackgroundColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="77" y="292" width="18" height="18" as="geometry" />
+          <mxGeometry x="78" y="300" width="18" height="18" as="geometry" />
         </mxCell>
         <mxCell id="0coCHjS_768v3yzFK0J5-500" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#F5AB50;shape=mxgraph.azure.file_2;pointerEvents=1;labelBackgroundColor=none;fontColor=#1A1A1A;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="77" y="320" width="20" height="20" as="geometry" />
