@@ -1276,6 +1276,9 @@
         <mxCell id="0coCHjS_768v3yzFK0J5-591" value="triple scores" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3" vertex="1" parent="1">
           <mxGeometry x="674" y="447" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="0coCHjS_768v3yzFK0J5-592" value="subgraphs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="480" y="-13" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
