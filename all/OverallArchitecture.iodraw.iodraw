@@ -1259,7 +1259,10 @@
           <mxGeometry x="614" y="455.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0coCHjS_768v3yzFK0J5-586" value="0.15" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="643" y="493.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="615" y="492.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0coCHjS_768v3yzFK0J5-587" value="0.15" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="625" y="502.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
