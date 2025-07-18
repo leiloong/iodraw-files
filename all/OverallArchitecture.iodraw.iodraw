@@ -1154,7 +1154,12 @@
           <mxGeometry x="172" y="562.5" width="60" height="35" as="geometry" />
         </mxCell>
         <mxCell id="0coCHjS_768v3yzFK0J5-547" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.252;entryY=0.084;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0coCHjS_768v3yzFK0J5-492" target="0coCHjS_768v3yzFK0J5-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="834" y="260" />
+              <mxPoint x="260" y="260" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
