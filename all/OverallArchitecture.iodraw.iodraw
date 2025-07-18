@@ -1153,16 +1153,17 @@
         <mxCell id="0coCHjS_768v3yzFK0J5-546" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
           <mxGeometry x="172" y="562.5" width="60" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="0coCHjS_768v3yzFK0J5-549" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0coCHjS_768v3yzFK0J5-548" target="0coCHjS_768v3yzFK0J5-544">
+        <mxCell id="0coCHjS_768v3yzFK0J5-549" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0coCHjS_768v3yzFK0J5-548" target="0coCHjS_768v3yzFK0J5-544">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="828" y="330" />
               <mxPoint x="828" y="270" />
               <mxPoint x="254" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="0coCHjS_768v3yzFK0J5-548" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="603" y="260" width="220" height="140" as="geometry" />
+          <mxGeometry x="603" y="260" width="227" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
