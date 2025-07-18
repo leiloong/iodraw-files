@@ -167,8 +167,8 @@
         <mxCell id="0coCHjS_768v3yzFK0J5-97" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0coCHjS_768v3yzFK0J5-99" target="0coCHjS_768v3yzFK0J5-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0coCHjS_768v3yzFK0J5-106" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0coCHjS_768v3yzFK0J5-97">
-          <mxGeometry x="-0.1" y="3" relative="1" as="geometry">
+        <mxCell id="0coCHjS_768v3yzFK0J5-107" value="r&lt;sub&gt;2&lt;/sub&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0coCHjS_768v3yzFK0J5-97">
+          <mxGeometry x="-0.05" y="7" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
