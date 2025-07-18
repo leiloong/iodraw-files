@@ -1249,7 +1249,7 @@
         <mxCell id="0coCHjS_768v3yzFK0J5-582" value="......" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="509" y="556" width="60" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="0coCHjS_768v3yzFK0J5-583" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0coCHjS_768v3yzFK0J5-583" value="0.15" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="614" y="408.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
