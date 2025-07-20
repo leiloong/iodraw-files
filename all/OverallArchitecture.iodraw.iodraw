@@ -1293,8 +1293,8 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0coCHjS_768v3yzFK0J5-596" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="363" y="13" width="10" height="160" as="geometry" />
+        <mxCell id="0coCHjS_768v3yzFK0J5-596" value="" style="line;strokeWidth=1;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="363" y="13" width="10" height="247" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
