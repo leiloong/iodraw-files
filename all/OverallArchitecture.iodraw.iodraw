@@ -1165,10 +1165,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0coCHjS_768v3yzFK0J5-556" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="284" y="447.5" width="60" height="35" as="geometry" />
+          <mxGeometry x="285" y="447.5" width="60" height="35" as="geometry" />
         </mxCell>
         <mxCell id="0coCHjS_768v3yzFK0J5-557" value="score function" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontSize=19;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="357" y="369.5" width="48" height="191" as="geometry" />
+          <mxGeometry x="373" y="369.5" width="48" height="191" as="geometry" />
         </mxCell>
         <mxCell id="0coCHjS_768v3yzFK0J5-558" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="450" y="447.5" width="60" height="35" as="geometry" />
