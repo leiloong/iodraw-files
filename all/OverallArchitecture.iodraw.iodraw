@@ -1303,7 +1303,7 @@
           <mxGeometry x="674" y="481" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0coCHjS_768v3yzFK0J5-592" value="knowledge graph" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3" vertex="1" parent="1">
-          <mxGeometry x="102" y="42" width="60" height="30" as="geometry" />
+          <mxGeometry x="58" y="42" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0coCHjS_768v3yzFK0J5-593" value="entities with context" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3" vertex="1" parent="1">
           <mxGeometry x="119" y="296" width="81" height="30" as="geometry" />
