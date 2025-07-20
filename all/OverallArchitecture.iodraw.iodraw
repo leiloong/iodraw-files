@@ -1142,7 +1142,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0coCHjS_768v3yzFK0J5-548" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="0coCHjS_768v3yzFK0J5-548" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;labelBackgroundColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="514" y="294" width="227" height="140" as="geometry" />
         </mxCell>
         <mxCell id="0coCHjS_768v3yzFK0J5-551" value="" style="sketch=0;outlineConnect=0;fontColor=#1A1A1A;fillColor=#F5AB50;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;labelBackgroundColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
