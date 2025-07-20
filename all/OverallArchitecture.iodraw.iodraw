@@ -1377,7 +1377,7 @@
         <mxCell id="0coCHjS_768v3yzFK0J5-623" value="subgraph links" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3" vertex="1" parent="1">
           <mxGeometry x="204" y="22" width="109" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="0coCHjS_768v3yzFK0J5-625" value="none subgraph link" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3;fontColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="0coCHjS_768v3yzFK0J5-625" value="none subgraph links" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3;fontColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="210" y="41" width="119" height="21" as="geometry" />
         </mxCell>
       </root>
