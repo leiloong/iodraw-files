@@ -1268,7 +1268,7 @@
           <mxGeometry x="615" y="565.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0coCHjS_768v3yzFK0J5-589" value="subgraphs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3" vertex="1" parent="1">
-          <mxGeometry x="470" y="11" width="60" height="30" as="geometry" />
+          <mxGeometry x="469" y="11" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0coCHjS_768v3yzFK0J5-590" value="subgraph embeddings" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3" vertex="1" parent="1">
           <mxGeometry x="664" y="297" width="60" height="30" as="geometry" />
