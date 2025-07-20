@@ -102,6 +102,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="0coCHjS_768v3yzFK0J5-608" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0coCHjS_768v3yzFK0J5-6" target="0coCHjS_768v3yzFK0J5-607">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0coCHjS_768v3yzFK0J5-6" value="e&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sub&gt;4&lt;/sub&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="169" y="115" width="20" height="20" as="geometry" />
         </mxCell>
@@ -1309,6 +1312,9 @@
         </mxCell>
         <mxCell id="0coCHjS_768v3yzFK0J5-602" value="" style="line;strokeWidth=1;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="496" y="12.5" width="10" height="247" as="geometry" />
+        </mxCell>
+        <mxCell id="0coCHjS_768v3yzFK0J5-607" value="e&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sub&gt;4&lt;/sub&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="269" y="115" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
