@@ -1355,10 +1355,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0coCHjS_768v3yzFK0J5-619" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;" edge="1" parent="1">
+        <mxCell id="0coCHjS_768v3yzFK0J5-619" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="50" as="sourcePoint" />
-            <mxPoint x="247" y="50" as="targetPoint" />
+            <mxPoint x="240" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0coCHjS_768v3yzFK0J5-620" value="..." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="0coCHjS_768v3yzFK0J5-619">
@@ -1370,7 +1370,7 @@
           <mxGeometry x="252" y="5" width="60" height="21" as="geometry" />
         </mxCell>
         <mxCell id="0coCHjS_768v3yzFK0J5-623" value="subgraph link" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3" vertex="1" parent="1">
-          <mxGeometry x="253" y="22" width="60" height="21" as="geometry" />
+          <mxGeometry x="253" y="22" width="87" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
