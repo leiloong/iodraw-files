@@ -1377,8 +1377,8 @@
         <mxCell id="0coCHjS_768v3yzFK0J5-623" value="subgraph link" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3" vertex="1" parent="1">
           <mxGeometry x="253" y="22" width="87" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="0coCHjS_768v3yzFK0J5-625" value="subgraph link" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3" vertex="1" parent="1">
-          <mxGeometry x="263" y="33" width="87" height="21" as="geometry" />
+        <mxCell id="0coCHjS_768v3yzFK0J5-625" value="none subgraph link" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="249" y="41" width="87" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
