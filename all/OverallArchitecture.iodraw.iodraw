@@ -1343,6 +1343,9 @@
         <mxCell id="0coCHjS_768v3yzFK0J5-623" value="subgraph links" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3" vertex="1" parent="1">
           <mxGeometry x="204" y="22" width="109" height="21" as="geometry" />
         </mxCell>
+        <mxCell id="0coCHjS_768v3yzFK0J5-629" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="1">
+          <mxGeometry x="620" y="190" width="85" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
