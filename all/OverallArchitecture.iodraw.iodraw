@@ -1059,7 +1059,7 @@
         <mxCell id="0coCHjS_768v3yzFK0J5-643" value="Subgraph guided multi-modal embedding" style="text;whiteSpace=wrap;fontStyle=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="62" y="298" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0coCHjS_768v3yzFK0J5-646" value="Relational subgraph embedding" style="text;whiteSpace=wrap;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="0coCHjS_768v3yzFK0J5-646" value="Relational Subgraph embedding" style="text;whiteSpace=wrap;fontStyle=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="49" y="3" width="250" height="40" as="geometry" />
         </mxCell>
       </root>
