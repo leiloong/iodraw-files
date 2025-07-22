@@ -1117,7 +1117,7 @@
             <mxPoint x="103" y="535" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0coCHjS_768v3yzFK0J5-540" value="e&lt;sub&gt;i&lt;/sub&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;labelBackgroundColor=none;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="0coCHjS_768v3yzFK0J5-540" value="e&lt;sub&gt;i&lt;/sub&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;labelBackgroundColor=none;fontStyle=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="137" y="506" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0coCHjS_768v3yzFK0J5-541" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontStyle=1" edge="1" parent="1" source="0coCHjS_768v3yzFK0J5-540" target="0coCHjS_768v3yzFK0J5-537">
@@ -1159,7 +1159,7 @@
             <mxPoint x="143" y="597" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0coCHjS_768v3yzFK0J5-554" value="e&lt;sub&gt;q&lt;/sub&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;labelBackgroundColor=none;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="0coCHjS_768v3yzFK0J5-554" value="e&lt;sub&gt;q&lt;/sub&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;labelBackgroundColor=none;fontStyle=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="134" y="588" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0coCHjS_768v3yzFK0J5-555" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontStyle=1" edge="1" parent="1" source="0coCHjS_768v3yzFK0J5-554" target="0coCHjS_768v3yzFK0J5-552">
@@ -1184,7 +1184,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0coCHjS_768v3yzFK0J5-559" value="e&lt;sub&gt;q&lt;/sub&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="0coCHjS_768v3yzFK0J5-559" value="e&lt;sub&gt;q&lt;/sub&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontStyle=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="524" y="447.5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0coCHjS_768v3yzFK0J5-561" value="e&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sub&gt;1&lt;/sub&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontStyle=1" vertex="1" parent="1">
