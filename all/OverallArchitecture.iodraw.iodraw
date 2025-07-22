@@ -94,7 +94,7 @@
         </mxCell>
         <mxCell id="0coCHjS_768v3yzFK0J5-84" value="..." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontStyle=1" vertex="1" connectable="0" parent="0coCHjS_768v3yzFK0J5-78">
           <mxGeometry x="-0.098" y="9" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0coCHjS_768v3yzFK0J5-6" value="e&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sub&gt;4&lt;/sub&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontStyle=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
@@ -1015,8 +1015,8 @@
         </mxCell>
         <mxCell id="0coCHjS_768v3yzFK0J5-615" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;dashed=1;strokeWidth=2;strokeColor=#0000ff;fontStyle=1" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="193" y="44" as="sourcePoint" />
-            <mxPoint x="240" y="44" as="targetPoint" />
+            <mxPoint x="193" y="47" as="sourcePoint" />
+            <mxPoint x="240" y="47" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0coCHjS_768v3yzFK0J5-645" value="r&lt;sub&gt;q&lt;/sub&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="0coCHjS_768v3yzFK0J5-615">
@@ -1026,8 +1026,8 @@
         </mxCell>
         <mxCell id="0coCHjS_768v3yzFK0J5-617" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontStyle=1" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="192" y="60" as="sourcePoint" />
-            <mxPoint x="239" y="60" as="targetPoint" />
+            <mxPoint x="192" y="63" as="sourcePoint" />
+            <mxPoint x="239" y="63" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0coCHjS_768v3yzFK0J5-618" value="..." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontStyle=1" vertex="1" connectable="0" parent="0coCHjS_768v3yzFK0J5-617">
@@ -1036,10 +1036,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0coCHjS_768v3yzFK0J5-622" value="query link" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3;fontColor=#0000FF;" vertex="1" parent="1">
-          <mxGeometry x="243" y="33" width="60" height="21" as="geometry" />
+          <mxGeometry x="243" y="36" width="60" height="21" as="geometry" />
         </mxCell>
         <mxCell id="0coCHjS_768v3yzFK0J5-623" value="subgraph links" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3" vertex="1" parent="1">
-          <mxGeometry x="233" y="50" width="109" height="21" as="geometry" />
+          <mxGeometry x="233" y="53" width="109" height="21" as="geometry" />
         </mxCell>
         <mxCell id="0coCHjS_768v3yzFK0J5-629" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="656" y="495" width="20" height="10" as="geometry" />
@@ -1059,8 +1059,8 @@
         <mxCell id="0coCHjS_768v3yzFK0J5-643" value="Subgraph guided multi-modal embedding" style="text;whiteSpace=wrap;fontStyle=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="62" y="298" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0coCHjS_768v3yzFK0J5-646" value="Subgraph guided multi-modal embedding" style="text;whiteSpace=wrap;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="45" y="14" width="250" height="40" as="geometry" />
+        <mxCell id="0coCHjS_768v3yzFK0J5-646" value="Relational subgraph embedding" style="text;whiteSpace=wrap;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="49" y="3" width="250" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
