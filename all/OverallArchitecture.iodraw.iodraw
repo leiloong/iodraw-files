@@ -1360,25 +1360,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0coCHjS_768v3yzFK0J5-619" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#ff0000;strokeWidth=2;fontStyle=1" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="162" y="55" as="sourcePoint" />
-            <mxPoint x="202" y="55" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0coCHjS_768v3yzFK0J5-620" value="..." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontStyle=1" vertex="1" connectable="0" parent="0coCHjS_768v3yzFK0J5-619">
-          <mxGeometry x="-0.1915" y="9" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="0coCHjS_768v3yzFK0J5-622" value="query link" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3;fontColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="214" y="5" width="60" height="21" as="geometry" />
         </mxCell>
         <mxCell id="0coCHjS_768v3yzFK0J5-623" value="subgraph links" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3" vertex="1" parent="1">
           <mxGeometry x="204" y="22" width="109" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="0coCHjS_768v3yzFK0J5-625" value="none subgraph links" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3;fontColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="205" y="41" width="130" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
