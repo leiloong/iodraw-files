@@ -1264,7 +1264,7 @@
         <mxCell id="0coCHjS_768v3yzFK0J5-585" value="0.33" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="614" y="489.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0coCHjS_768v3yzFK0J5-586" value="0.92" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="0coCHjS_768v3yzFK0J5-586" value="0.92" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontStyle=1;fontColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="615" y="526.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0coCHjS_768v3yzFK0J5-587" value="0.26" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontStyle=1" vertex="1" parent="1">
