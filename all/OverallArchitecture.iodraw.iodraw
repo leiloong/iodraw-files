@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0coCHjS_768v3yzFK0J5-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#6c8ebf;dashed=1;dashPattern=8 8;labelBackgroundColor=none;fontStyle=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="30" y="282" width="720" height="341" as="geometry" />
+        </mxCell>
         <mxCell id="0coCHjS_768v3yzFK0J5-588" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="330" y="4" width="248" height="266" as="geometry" />
         </mxCell>
@@ -1355,9 +1358,6 @@
         </mxCell>
         <mxCell id="0coCHjS_768v3yzFK0J5-634" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="656" y="453" width="13" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="0coCHjS_768v3yzFK0J5-2" value="&#xa;0.91&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#6c8ebf;dashed=1;dashPattern=8 8;labelBackgroundColor=none;fontStyle=1;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="30" y="282" width="720" height="341" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
