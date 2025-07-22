@@ -1071,6 +1071,9 @@
         <mxCell id="0coCHjS_768v3yzFK0J5-650" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.file" vertex="1" parent="1">
           <mxGeometry x="84" y="530" width="47" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="0coCHjS_768v3yzFK0J5-651" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Analysis_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="137" y="390" width="50" height="39" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
