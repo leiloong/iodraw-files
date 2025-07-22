@@ -1344,10 +1344,10 @@
           <mxGeometry x="204" y="22" width="109" height="21" as="geometry" />
         </mxCell>
         <mxCell id="0coCHjS_768v3yzFK0J5-629" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="663" y="534" width="20" height="10" as="geometry" />
+          <mxGeometry x="656" y="534" width="20" height="10" as="geometry" />
         </mxCell>
         <mxCell id="0coCHjS_768v3yzFK0J5-631" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x" vertex="1" parent="1">
-          <mxGeometry x="827" y="480" width="13" height="8" as="geometry" />
+          <mxGeometry x="827" y="481" width="13" height="8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
