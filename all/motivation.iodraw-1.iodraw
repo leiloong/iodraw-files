@@ -8,7 +8,7 @@
           <mxGeometry x="53" y="560" width="29" height="29" as="geometry" />
         </mxCell>
         <mxCell id="MUGyUzKNQFKn4y2xiQ99-27" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;shape=mxgraph.azure.file_2;pointerEvents=1;labelBackgroundColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="57" y="525" width="20" height="20" as="geometry" />
+          <mxGeometry x="57" y="520" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="z1M6FWVSfQYwfk_J_o3Z-30" value="..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;fontFamily=Times New Roman;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="191" width="60" height="31.5" as="geometry" />
@@ -203,7 +203,7 @@
           <mxGeometry x="57.5" y="634" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="MUGyUzKNQFKn4y2xiQ99-26" value="" style="sketch=0;outlineConnect=0;fillColor=#1ba1e2;strokeColor=#006EAF;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;labelBackgroundColor=none;fontFamily=Times New Roman;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="57" y="604" width="20" height="20" as="geometry" />
+          <mxGeometry x="57" y="603" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="MUGyUzKNQFKn4y2xiQ99-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#0000ff;" edge="1" parent="1" source="MUGyUzKNQFKn4y2xiQ99-27" target="MyKQD2pehE-W30nawcfU-4">
           <mxGeometry relative="1" as="geometry" />
