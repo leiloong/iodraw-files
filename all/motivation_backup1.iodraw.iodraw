@@ -780,6 +780,9 @@
         <mxCell id="MUGyUzKNQFKn4y2xiQ99-510" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="550" y="51" width="30" height="12" as="geometry" />
         </mxCell>
+        <mxCell id="MUGyUzKNQFKn4y2xiQ99-511" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;MMKG&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="60" width="130" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
