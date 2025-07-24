@@ -420,9 +420,6 @@
         <mxCell id="MUGyUzKNQFKn4y2xiQ99-105" value="&lt;i style=&quot;font-size: 14px;&quot;&gt;e&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;sub style=&quot;font-size: 14px;&quot;&gt;3&lt;/sub&gt;&lt;/span&gt;&lt;/i&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=none;gradientColor=#ffa500;strokeColor=#d79b00;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="547" y="575" width="29" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="MUGyUzKNQFKn4y2xiQ99-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#ff0000;dashed=1;strokeWidth=2;fontSize=14;" edge="1" parent="1" source="MUGyUzKNQFKn4y2xiQ99-110" target="MUGyUzKNQFKn4y2xiQ99-112">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="MUGyUzKNQFKn4y2xiQ99-108" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;strokeWidth=2;" edge="1" parent="1" source="MUGyUzKNQFKn4y2xiQ99-110" target="MUGyUzKNQFKn4y2xiQ99-105">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
