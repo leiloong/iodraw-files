@@ -814,7 +814,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MUGyUzKNQFKn4y2xiQ99-366" value="" style="sketch=0;outlineConnect=0;fillColor=#1ba1e2;strokeColor=#006EAF;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;labelBackgroundColor=none;fontFamily=Times New Roman;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="368.5" y="745" width="18" height="18" as="geometry" />
+          <mxGeometry x="368.5" y="747" width="18" height="18" as="geometry" />
         </mxCell>
         <mxCell id="MUGyUzKNQFKn4y2xiQ99-367" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;shape=mxgraph.azure.file_2;pointerEvents=1;labelBackgroundColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="343" y="743" width="20" height="20" as="geometry" />
@@ -866,7 +866,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MUGyUzKNQFKn4y2xiQ99-386" value="" style="sketch=0;outlineConnect=0;fillColor=#1ba1e2;strokeColor=#006EAF;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;labelBackgroundColor=none;fontFamily=Times New Roman;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="268" y="826" width="18" height="18" as="geometry" />
+          <mxGeometry x="272" y="827" width="18" height="18" as="geometry" />
         </mxCell>
         <mxCell id="MUGyUzKNQFKn4y2xiQ99-387" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;shape=mxgraph.azure.file_2;pointerEvents=1;labelBackgroundColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="249" y="826" width="20" height="20" as="geometry" />
