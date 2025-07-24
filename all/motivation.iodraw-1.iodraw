@@ -727,7 +727,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MUGyUzKNQFKn4y2xiQ99-329" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="700" width="154" height="160" as="geometry" />
+          <mxGeometry x="240" y="700" width="154" height="150" as="geometry" />
         </mxCell>
         <mxCell id="MUGyUzKNQFKn4y2xiQ99-330" value="&lt;i style=&quot;font-size: 14px;&quot;&gt;e&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;sub style=&quot;font-size: 14px;&quot;&gt;3&lt;/sub&gt;&lt;/span&gt;&lt;/i&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=none;gradientColor=#ffa500;strokeColor=#d79b00;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="247" y="710" width="29" height="29" as="geometry" />
@@ -866,10 +866,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MUGyUzKNQFKn4y2xiQ99-386" value="" style="sketch=0;outlineConnect=0;fillColor=#1ba1e2;strokeColor=#006EAF;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;labelBackgroundColor=none;fontFamily=Times New Roman;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="275" y="826" width="18" height="18" as="geometry" />
+          <mxGeometry x="268" y="826" width="18" height="18" as="geometry" />
         </mxCell>
         <mxCell id="MUGyUzKNQFKn4y2xiQ99-387" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;shape=mxgraph.azure.file_2;pointerEvents=1;labelBackgroundColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="244" y="826" width="20" height="20" as="geometry" />
+          <mxGeometry x="249" y="826" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="MUGyUzKNQFKn4y2xiQ99-389" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="245" y="969" width="159" height="160" as="geometry" />
