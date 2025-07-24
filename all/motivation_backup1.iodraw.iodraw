@@ -772,7 +772,7 @@
           <mxGeometry x="397" y="77" width="113" height="20" as="geometry" />
         </mxCell>
         <mxCell id="MUGyUzKNQFKn4y2xiQ99-508" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFE6CC;" vertex="1" parent="1">
-          <mxGeometry x="550" y="66.5" width="30" height="13.5" as="geometry" />
+          <mxGeometry x="550" y="66.5" width="30" height="13" as="geometry" />
         </mxCell>
         <mxCell id="MUGyUzKNQFKn4y2xiQ99-509" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#fad9d5;strokeColor=#ae4132;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="82" width="50" height="8" as="geometry" />
