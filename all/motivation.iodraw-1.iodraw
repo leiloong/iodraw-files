@@ -126,7 +126,7 @@
         <mxCell id="MyKQD2pehE-W30nawcfU-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MyKQD2pehE-W30nawcfU-2" target="MyKQD2pehE-W30nawcfU-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MyKQD2pehE-W30nawcfU-2" value="&lt;i&gt;e&lt;sub&gt;q&lt;/sub&gt;&lt;/i&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;fontColor=none;strokeColor=#B20000;fontStyle=1;noLabel=1;" parent="1" vertex="1">
+        <mxCell id="MyKQD2pehE-W30nawcfU-2" value="&lt;i&gt;e&lt;sub&gt;q&lt;/sub&gt;&lt;/i&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;fontColor=default;strokeColor=#B20000;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="221" y="420" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="MyKQD2pehE-W30nawcfU-3" value="&lt;i&gt;e&lt;sub style=&quot;&quot;&gt;a&lt;/sub&gt;&lt;/i&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
