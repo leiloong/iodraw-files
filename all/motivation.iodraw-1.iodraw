@@ -1102,10 +1102,10 @@
           <mxGeometry x="388" y="1000" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MUGyUzKNQFKn4y2xiQ99-498" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontStyle=1;fontFamily=Times New Roman;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="170" y="620" width="60" height="30" as="geometry" />
+          <mxGeometry x="103" y="620" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MUGyUzKNQFKn4y2xiQ99-499" value="Image" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;fontStyle=1;fontFamily=Times New Roman;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="218" y="602" width="60" height="30" as="geometry" />
+          <mxGeometry x="148" y="631" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
