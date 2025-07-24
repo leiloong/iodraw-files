@@ -775,7 +775,10 @@
           <mxGeometry x="550" y="66.5" width="30" height="12" as="geometry" />
         </mxCell>
         <mxCell id="MUGyUzKNQFKn4y2xiQ99-509" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#fad9d5;strokeColor=#ae4132;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="82" width="30" height="11" as="geometry" />
+          <mxGeometry x="550" y="82" width="30" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="MUGyUzKNQFKn4y2xiQ99-510" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="29" y="42" width="159" height="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
