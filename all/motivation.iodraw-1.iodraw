@@ -705,8 +705,8 @@
         <mxCell id="MUGyUzKNQFKn4y2xiQ99-221" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;shape=mxgraph.azure.file_2;pointerEvents=1;labelBackgroundColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="50" y="716" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="MUGyUzKNQFKn4y2xiQ99-226" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="41" y="370" width="120" height="60" as="geometry" />
+        <mxCell id="MUGyUzKNQFKn4y2xiQ99-226" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="41" y="370" width="159" height="370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
