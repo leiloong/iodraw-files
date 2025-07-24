@@ -1095,7 +1095,7 @@
         <mxCell id="MUGyUzKNQFKn4y2xiQ99-495" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px; font-family: Arial; color: rgb(0, 0, 0);&quot;&gt;(a) Illustration of multi-modal KG&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="54" y="1000" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MUGyUzKNQFKn4y2xiQ99-496" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px; font-family: Arial; color: rgb(0, 0, 0);&quot;&gt;(b) Illustration of current MMKGC Models&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="MUGyUzKNQFKn4y2xiQ99-496" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px; font-family: Arial; color: rgb(0, 0, 0);&quot;&gt;(b) Illustration of&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: NimbusRomNo9L-Regu; font-size: 10.0622pt; background-color: initial;&quot;&gt;typical&lt;/span&gt;&lt;span style=&quot;font-family: Arial; background-color: initial;&quot;&gt;&amp;nbsp;MMKGC Models&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="221" y="1000" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MUGyUzKNQFKn4y2xiQ99-497" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px; font-family: Arial; color: rgb(0, 0, 0);&quot;&gt;(c) Illustration of SubGMR&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1" vertex="1" parent="1">
