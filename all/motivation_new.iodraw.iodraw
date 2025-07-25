@@ -320,11 +320,6 @@
             <mxPoint x="392.0000000000007" y="156.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MUGyUzKNQFKn4y2xiQ99-428" value="&lt;i&gt;r&lt;sub&gt;3&lt;/sub&gt;&lt;/i&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;" vertex="1" connectable="0" parent="MUGyUzKNQFKn4y2xiQ99-427">
-          <mxGeometry x="-0.0186" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="MUGyUzKNQFKn4y2xiQ99-429" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;strokeWidth=2;" edge="1" parent="1" source="MUGyUzKNQFKn4y2xiQ99-431">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="435.0000000000098" y="156.5" as="targetPoint" />
