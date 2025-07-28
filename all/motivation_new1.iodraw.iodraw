@@ -952,10 +952,10 @@
           <mxGeometry x="68" y="540" width="120" height="23" as="geometry" />
         </mxCell>
         <mxCell id="m2HxD15MItZ2oFMFetyB-100" value="Original MMKG" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#918EFE;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="78" y="550" width="120" height="23" as="geometry" />
+          <mxGeometry x="293" y="537" width="120" height="23" as="geometry" />
         </mxCell>
         <mxCell id="m2HxD15MItZ2oFMFetyB-101" value="Original MMKG" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#918EFE;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="506" y="538" width="120" height="23" as="geometry" />
+          <mxGeometry x="506" y="536" width="120" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
