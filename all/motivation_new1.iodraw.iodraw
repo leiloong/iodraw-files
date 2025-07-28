@@ -607,12 +607,6 @@
             <mxPoint x="110" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m2HxD15MItZ2oFMFetyB-25" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="m2HxD15MItZ2oFMFetyB-18" target="m2HxD15MItZ2oFMFetyB-15">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="123" y="610" as="sourcePoint" />
-            <mxPoint x="150" y="588" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="m2HxD15MItZ2oFMFetyB-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.326;exitY=0.063;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="m2HxD15MItZ2oFMFetyB-19" target="m2HxD15MItZ2oFMFetyB-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="680" as="sourcePoint" />
