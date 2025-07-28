@@ -680,7 +680,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m2HxD15MItZ2oFMFetyB-39" value="r&lt;sub style=&quot;font-size: 15px;&quot;&gt;q&lt;/sub&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=3;fontSize=15;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="107.5" y="177.39999999999998" as="geometry">
+          <mxGeometry x="103" y="173.39999999999998" as="geometry">
             <mxPoint x="41" y="420" as="offset" />
           </mxGeometry>
         </mxCell>
