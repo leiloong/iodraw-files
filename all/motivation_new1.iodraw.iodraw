@@ -919,10 +919,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m2HxD15MItZ2oFMFetyB-93" value="" style="sketch=0;outlineConnect=0;fillColor=#1ba1e2;strokeColor=#006EAF;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;labelBackgroundColor=none;fontFamily=Times New Roman;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="81.5" y="634" width="9" height="9" as="geometry" />
+          <mxGeometry x="76.5" y="634" width="9" height="9" as="geometry" />
         </mxCell>
         <mxCell id="m2HxD15MItZ2oFMFetyB-94" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#6c8ebf;fillColor=#dae8fc;shape=mxgraph.azure.file_2;pointerEvents=1;labelBackgroundColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="58" y="634" width="10" height="10" as="geometry" />
+          <mxGeometry x="65" y="634" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="m2HxD15MItZ2oFMFetyB-95" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#1ba1e2;strokeColor=#0000FF;startArrow=classic;startFill=1;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="m2HxD15MItZ2oFMFetyB-94">
           <mxGeometry relative="1" as="geometry">
